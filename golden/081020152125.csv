@@ -1,0 +1,4 @@
+round_epochs,val_loss,val_acc,val_f1score,loss,acc,f1score,activation,batch_size,dropout,epochs,first_neuron,hidden_layers,kernel_initializer,last_activation,losses,optimizer
+150,-5.6654359746389395e+23,0.0,1.0,-5.045631638516849e+23,0.0,1.0,elu,64,0.30000000000000004,150,8,1,uniform,sigmoid,binary_crossentropy,Adadelta
+150,nan,0.0,nan,nan,0.0,nan,relu,64,0.1,150,16,2,uniform,sigmoid,binary_crossentropy,SGD
+150,-8.90903037823238e+20,0.0,1.0,-7.685064269539398e+20,0.0,1.0,relu,64,0.4,150,8,0,normal,sigmoid,binary_crossentropy,Adadelta

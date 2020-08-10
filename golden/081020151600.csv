@@ -1,0 +1,2 @@
+round_epochs,val_loss,val_acc,val_f1score,loss,acc,f1score,activation,batch_size,dropout,epochs,first_neuron,hidden_layers,kernel_initializer,last_activation,losses,optimizer
+10,-210851.44626083816,0.0,1.0,-164203.45141904466,0.0,1.0,relu,64,0,10,9,2,normal,sigmoid,binary_crossentropy,Adam
