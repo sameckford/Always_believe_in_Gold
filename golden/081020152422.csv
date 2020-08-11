@@ -1,3 +1,0 @@
-round_epochs,val_loss,val_acc,val_f1score,loss,acc,f1score,activation,batch_size,dropout,epochs,first_neuron,hidden_layers,kernel_initializer,last_activation,losses,optimizer
-150,505102.0386560694,0.0,1.0,470700.2558157568,0.0,1.0,relu,64,0.30000000000000004,150,16,1,uniform,sigmoid,mean_squared_error,Adamax
-150,505102.0270953757,0.0,1.0,470700.1980459057,0.0,1.0,elu,128,0.2,150,64,2,normal,sigmoid,mean_squared_error,Adagrad
